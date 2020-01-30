@@ -1,2 +1,2 @@
-# img
-image storage
+# WebAssets
+Web assets storage, like image ...
